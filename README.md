@@ -31,6 +31,8 @@ License: GNU Affero General Public License v3.0
 ## Source
 Latest version is on github: https://github.com/blaiiize/CFB-Model
 
+Contributions and forks are welcome
+
 ## Developers
 Developed by Blaize Lahman
 
